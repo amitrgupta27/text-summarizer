@@ -1,5 +1,6 @@
-Project Links:
-Project Report:https://github.com/amitrgupta27/text-summarizer/blob/master/Gupta_Amit_FinalProjectReport_CSCIE90.pdf  
+Project Links:   
+
+Project Report:Gupta_Amit_FinalProjectReport_CSCIE90.pdf  
 Youtube URL (Project Overview):https://youtu.be/aQPjzQAn_Ys   
 Youtube URL (Deep Dive): https://www.youtube.com/watch?v=s8wfpDl0Okk   
 
