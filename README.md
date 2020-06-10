@@ -1,8 +1,13 @@
-__Project Links__:   
+Description:
 
-__Report__:Gupta_Amit_FinalProjectReport_CSCIE90.pdf  
-__Overview__:https://youtu.be/aQPjzQAn_Ys   
-__Deep Dive__:https://www.youtube.com/watch?v=s8wfpDl0Okk   
+In this project we generate summarized text for a given corpus of text. For demonstration purposes, we have used the Amazon Food Reviews dataset. We generate summarized text in both batch mode (for large body of text), and in realtime. Various AWS building blocks have been used including API gateway, Lambda, EC2, S3 and k-means for text summarization. Please refer to the Report below for the implementation details.
+
+
+Project Links:   
+
+Report:Gupta_Amit_FinalProjectReport_CSCIE90.pdf  
+Overview:https://youtu.be/aQPjzQAn_Ys   
+Deep Dive:https://www.youtube.com/watch?v=s8wfpDl0Okk   
 
 
 __References__:   
