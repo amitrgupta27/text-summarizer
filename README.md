@@ -1,6 +1,6 @@
 Description:
 
-In this project we generate summarized text for a given corpus of text. For demonstration purposes, we have used the Amazon Food Reviews dataset. We generate summarized text in both batch mode (for large body of text), and in realtime. Various AWS building blocks have been used including API gateway, Lambda, EC2, S3 and k-means for text summarization. Please refer to the Report below for the implementation details.
+In this project we generate summarized text for a given corpus of text. For demonstration purposes, we have used the Amazon Food Reviews dataset. We generate summarized text in both batch mode (for large body of text), and in realtime for smaller body of text (10-12 sentences long). Various AWS building blocks have been used including API gateway, Lambda, EC2, S3 and k-means for text summarization. Please refer to the Report below for the implementation details.
 
 
 Project Links:   
